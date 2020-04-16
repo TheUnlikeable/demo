@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "articles": [
     { "articleId": 1, "title": "Post 1", "summary": "Nothing", "Content": "Add detail later" },
     { "articleId": 2, "title": "Post 2", "summary": "Nothing", "Content": "Add detail later" },
     { "articleId": 3, "title": "Post 3", "summary": "Nothing", "Content": "Add detail later" }
