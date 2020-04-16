@@ -1,8 +1,11 @@
 {
-  "articles": [
-    { "articleId": 1, "title": "Post 1", "summary": "Nothing", "Content": "Add detail later" },
-    { "articleId": 2, "title": "Post 2", "summary": "Nothing", "Content": "Add detail later" },
-    { "articleId": 3, "title": "Post 3", "summary": "Nothing", "Content": "Add detail later" }
+  "people": [
+    { "id": 1, "name": "Nguyễn Công Nghiệp" },
+    { "id": 2, "name": "Nguyễn Tấn Dũng" },
+    { "id": 3, "name": "Trần Đại Quang" },
+    { "id": 4, "name": "Nguyễn Phú Trọng" },
+    { "id": 5, "name": "Phan Trung Kiên" },
+    { "id": 6, "name": "Trần Đại Quang" }
   ],
   "fields": [
     { "id": 1, "value": "An ninh, trật tự" },
