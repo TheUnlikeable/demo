@@ -4,9 +4,18 @@
     { "articleId": 2, "title": "Post 2", "summary": "Nothing", "Content": "Add detail later" },
     { "articleId": 3, "title": "Post 3", "summary": "Nothing", "Content": "Add detail later" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "fields": [
+    { "id": 1, "value": "An ninh, trật tự" },
+    { "id": 2, "value": "Chế độ chính sách" },
+    { "id": 3, "value": "Công an nhân dân" },
+    { "id": 4, "value": "Xuất, nhập cảnh và cư trú của công dân Việt Nam" },
+    { "id": 5, "value": "Thi hành án hình sự và hỗ trợ tư pháp" },
+    { "id": 6, "value": "Ma tuý" },
+    { "id": 7, "value": "Tham mưu - Hậu cần" },
+    { "id": 8, "value": "Tổ chức-Cán bộ" },
+    { "id": 9, "value": "Đào tạo" },
+    { "id": 10, "value": "Chính trị tư tưởng" },
+    { "id": 11, "value": "Công tác đảng và công tác quần chúng" }
   ],
   "profile": {
     "name": "typicode"
